@@ -1,0 +1,16 @@
+<script>
+	import Button from "./Button.svelte";
+</script>
+
+<style>
+  main {
+    font-family: sans-serif;
+    text-align: center;
+  }
+</style>
+
+<main>
+	<h1>testes do alura que eu aprendi</h1>
+	<h2>aperta o botão pra ver oque acontece </h2>
+	<Button />
+</main>
